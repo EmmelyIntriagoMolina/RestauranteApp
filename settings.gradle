@@ -1,0 +1,2 @@
+rootProject.name = "RestautanteApp"
+include ':app'
